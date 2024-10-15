@@ -1,0 +1,17 @@
+body{
+  background-color: antiquewhite;
+  text-align: center;
+  font-size: 16px;
+  font-family: arial;
+}
+
+button{
+  padding: 8px 18px;
+  background-color: aquamarine;
+  border: none;
+  border: 1px solid grey;
+  cursor: pointer;
+}
+button:hover{
+  background-color: aqua;
+}
